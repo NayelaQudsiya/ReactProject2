@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.input-container {
+  margin-top: 20px;
+}
+
+.input-box{
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.send-button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background-color: #45a049;
+}
